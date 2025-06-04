@@ -10,3 +10,5 @@ Hello
 </body>
 </html>
 ```
+- [x] Introduce Yourself To Outside World
+- [ ] Make the site have more content
